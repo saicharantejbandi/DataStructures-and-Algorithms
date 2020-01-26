@@ -27,8 +27,7 @@ class Solution(object):
         
         length=len(grid[0])
         
-        d=[]
-        maxs=0
+        
         k=0
         for i  in range(height):
             
