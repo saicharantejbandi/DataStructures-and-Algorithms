@@ -24,6 +24,6 @@ def quickSort(arr):
         
         return x+c+y
 
-print(quickSort([7,6,5,4,3,2,1]))
+print(quickSort([7,6,5,4,3,2,1,1]))
 
         
